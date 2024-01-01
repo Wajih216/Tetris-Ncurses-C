@@ -2,8 +2,7 @@
 
 ## 1. Auteurs
 
-- TEBNI WAJIH [TD2-TPB]
-- TILLIER THEO [TD2-TPB]
+- TEBNI WAJIH, Licence 3 informatique à la faculté des sciences Jean Perrin à Lens.
 
 ## 2. Compilation
 
